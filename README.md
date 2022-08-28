@@ -91,6 +91,7 @@ Example: xxd hello.pdf
 ![pdf_document](https://www.oreilly.com/library/view/pdf-explained/9781449321581/httpatomoreillycomsourceoreillyimages1445204.png)
 
 ## Resource
-* [Download latest latex compiler](https://miktex.org)
+* [Download the latest latex compiler](https://miktex.org)
 * [Pdf File Format](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure)
 * [PDF Document Structure](https://www.oreilly.com/library/view/pdf-explained/9781449321581/ch04.html)
+* [Pdf objects are broken down and highlighted](https://docs.google.com/document/d/1jgN43m-sJuC6Gnv6ZjKvyucG0QE5DeRHK_pu1rP7is8/edit?usp=sharing)
