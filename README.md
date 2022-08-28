@@ -88,5 +88,9 @@ Syntax: xxd <fileName>
 Example: xxd hello.pdf
 ```
 
-Download latest latex compiler and writer from the website below
-* [MikeTex](https://miktex.org)
+![pdf_document](https://www.oreilly.com/library/view/pdf-explained/9781449321581/httpatomoreillycomsourceoreillyimages1445204.png)
+
+## Resource
+* [Download latest latex compiler](https://miktex.org)
+* [Pdf File Format](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure)
+* [PDF Document Structure](https://www.oreilly.com/library/view/pdf-explained/9781449321581/ch04.html)
