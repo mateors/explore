@@ -3,7 +3,7 @@
 ### What is Latex?
 LaTeX is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in WYSIWYG word processors like Microsoft Word, LibreOffice Writer and Apple Pages. 
 
-### How do i create a pdf file from scratch?
+### How do I create a pdf file from scratch?
 Open a texteditor (Notepad for windows) and paste the following code and give a file and save as a pdf file (.pdf at the end of the file)
 
 ```
@@ -88,6 +88,10 @@ Syntax: xxd <fileName>
 Example: xxd hello.pdf
 ```
 
+![pdf_strcuture](./screens/pdf_doc_structure.png)
+
+![pdf_doc](./screens/pdf_doc.png)
+
 ![pdf_document](https://www.oreilly.com/library/view/pdf-explained/9781449321581/httpatomoreillycomsourceoreillyimages1445204.png)
 
 ## Resource
@@ -95,3 +99,4 @@ Example: xxd hello.pdf
 * [Pdf File Format](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure)
 * [PDF Document Structure](https://www.oreilly.com/library/view/pdf-explained/9781449321581/ch04.html)
 * [Pdf objects are broken down and highlighted](https://docs.google.com/document/d/1jgN43m-sJuC6Gnv6ZjKvyucG0QE5DeRHK_pu1rP7is8/edit?usp=sharing)
+* [Pdf Internals](https://youtu.be/KmP7pbcAl-8?list=PLfGR40SWnakiUvTrdbTajYZsBAVvonb5y)
