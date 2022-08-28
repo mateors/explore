@@ -98,5 +98,5 @@ Example: xxd hello.pdf
 * [Download the latest latex compiler](https://miktex.org)
 * [Pdf File Format](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure)
 * [PDF Document Structure](https://www.oreilly.com/library/view/pdf-explained/9781449321581/ch04.html)
-* [Pdf objects are broken down and highlighted](https://docs.google.com/document/d/1jgN43m-sJuC6Gnv6ZjKvyucG0QE5DeRHK_pu1rP7is8/edit?usp=sharing)
-* [Pdf Internals](https://youtu.be/KmP7pbcAl-8?list=PLfGR40SWnakiUvTrdbTajYZsBAVvonb5y)
+* [Pdf objects are broken down into pieces and highlighted](https://docs.google.com/document/d/1jgN43m-sJuC6Gnv6ZjKvyucG0QE5DeRHK_pu1rP7is8/edit?usp=sharing)
+* [Pdf Internals - Video lecture](https://youtu.be/KmP7pbcAl-8?list=PLfGR40SWnakiUvTrdbTajYZsBAVvonb5y)
