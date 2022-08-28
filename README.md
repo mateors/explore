@@ -80,7 +80,7 @@ Thats it, now you can see a pdf file with `Hello, Student!` text.
 ### Hex dump
 In computing, a hex dump is a hexadecimal view of computer data, from memory or from a computer file or storage device. Looking at a hex dump of data is usually done in the context of either debugging or reverse engineering. In a hex dump, each byte is represented as a two-digit hexadecimal number.
 
-You can examine any file with a utility called xxd.exe program, you can get it [here](./xxd.exe) or build it by your own [from](https://github.com/mateors/xxd)
+You can examine any file with a utility called xxd.exe program, you can get it [here](./xxd.exe) or build it by your own [using this link](https://github.com/mateors/xxd)
 
 Syntax to examin any file using xxd:
 ```
